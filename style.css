@@ -5,6 +5,13 @@ h1 {
     font-size: 300%;
 }
 
+h3 {
+    text-align: center;
+    color: blue;
+    font-family: courier;
+    font-size: 200%;
+}
+
 p {
   color: black;
   font-family: courier;
