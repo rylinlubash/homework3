@@ -33,8 +33,7 @@ ul {
     margin: 0 auto;
     border: 2px solid blue;
     padding: 10px 20px;
-    list-style-position: inside
-}
+    list-style-position: inside;
 
 .center {
   display: block;
