@@ -13,19 +13,16 @@ h3 {
 }
 
 p {
-  color: black;
-  font-family: courier;
-  font-size: 160%;
+    color: black;
+    font-family: courier;
+    font-size: 160%;
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid blue;
 }
 
 body {
   background-color: powderblue;
-}
-
-p {
-    width: 800px;
-    margin: 0 auto;
-    border: 2px solid blue;
 }
 
 ol {
