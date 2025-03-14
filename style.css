@@ -17,8 +17,9 @@ p {
     font-family: courier;
     font-size: 160%;
     width: 800px;
-    margin: 100px;
+    margin: 0 auto;
     border: 2px solid blue;
+    padding: 10px 20px;
 }
 
 body {
@@ -29,8 +30,9 @@ ol {
     font-family: courier;
     font-size: 160%;
     width: 800px;
-    margin: 100px;
+    margin: 0 auto;
     border: 2px solid blue;
+    padding: 10px 20px;
 }
 
 .center {
