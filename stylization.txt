@@ -1,0 +1,9 @@
+Link to Website: https://rylinlubash.github.io/homework3website/index.html
+
+Styling and Customizations done:
+•	Headings changed to blue
+•	Everything is centered
+•	Font changed to Courier
+•	Background color changed to powder blue
+•	Blue borders added around paragraphs
+•	Buttons are stylized in blue with rounded corners
