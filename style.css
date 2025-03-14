@@ -26,13 +26,14 @@ body {
   background-color: powderblue;
 }
 
-ol {
+ul {
     font-family: courier;
     font-size: 160%;
     width: 800px;
     margin: 0 auto;
     border: 2px solid blue;
     padding: 10px 20px;
+    list-style-position: inside
 }
 
 .center {
