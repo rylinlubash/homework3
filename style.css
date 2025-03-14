@@ -26,6 +26,8 @@ body {
 }
 
 ol {
+    font-family: courier;
+    font-size: 160%;
     width: 800px;
     margin: 0 auto;
     border: 2px solid blue;
