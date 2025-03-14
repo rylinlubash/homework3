@@ -3,39 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Website</title>
+    <title>Welcome to My Website</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     
-    <h1 style="color: blue;"> Hello World! </h1>
+    <h1 style="color: blue;"> About Me </h1>
     <h1> A copy </h1>
     <h3 id = 'main'> A subtitle </h3>
 
-    <button id = "navigateButton">Go to another page</button>
-    <script>
+    <p id = 'main'>My name is Rylin Lubash. I'm a senior at Northeastern University studying Behavioral Neuroscience
+        with a minor in Data Science. I’m originally from Washington state, right outside of Seattle. In May, I’ll be
+        graduating and am hoping to continue my career in neuroscience research and eventually pursue a PhD in
+        Neuroscience. I currently volunteer in a lab on campus where we study the sex differences in fear responses
+        and the underlying circuitry in rats using Pavlovian fear conditioning and chemogenetics. The plan is to stay in the
+        general field of learning and memory and fear in my next research position, which I am currently on the hunt for. </p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sister_ratties_3.jpg/1200px-Sister_ratties_3.jpg?20120210032121" alt="" width = 500>
+
+    <p id = 'main'>Outside of my work and academics, I enjoy baking and reading. It can be hard to find time for hobbies during
+        the busy semester, but I do my best. Lately, I’ve been reading Babel by R.F. Kuang, which is a fascinating fantasy novel
+        full of meticulous worldbuilding to make you believe in their magic. I also read The Mountain Under the Sea by Ray Nayler
+        a few months ago, and it was definitely my top book of 2024. It’s about a future where artificial intelligence and robots
+        run rampant in a Earth stricken by climate change, and a newly discovered species of octopus that has developed a language. 
+        
+    <button id = "navigateButton">My Baking</button>
+        <script>
         const navigateButton = document.getElementById('navigateButton')
         navigateButton.addEventListener('click', function(){
             window.location.href = 'test.html'
         })
     </script>
-
-    <p id = 'main'>My name is Xiaoyi Yang. </p>
-
-    <p class = "A">Today is a <i>good</i> day. </p>
-
-    <p>I will get an A in <b>DS4200</b>. </p>
-
-    <a href="https://www.northeastern.edu"> Please check my University website. </a>
- 
-    <p>To do list: </p>
-    <ol>
-        <li>Talk to my TAs</li>
-        <li>Regrade your quiz</li>
-        <li>Read some paper</li>
-    </ol>
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1280px-Cat_August_2010-4.jpg" alt="" width = 500>
 
 </body>
 </html>
