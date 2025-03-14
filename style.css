@@ -26,16 +26,6 @@ body {
   background-color: powderblue;
 }
 
-ul {
-    font-family: courier;
-    font-size: 160%;
-    width: 800px;
-    margin: 0 auto;
-    border: 2px solid blue;
-    padding: 10px 20px;
-    list-style-position: inside;
-}
-
 .center {
   display: block;
   margin-left: auto;
@@ -54,4 +44,14 @@ ul {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 16px;
+}
+
+ul {
+    font-family: courier;
+    font-size: 160%;
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid blue;
+    padding: 10px 20px;
+    list-style-position: inside;
 }
