@@ -1,4 +1,4 @@
-Link to Website: https://rylinlubash.github.io/homework3website/index.html
+Link to Website: https://rylinlubash.github.io/homework3/index.html
 
 Styling and Customizations done:
 •	Headings changed to blue
